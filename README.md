@@ -3,7 +3,7 @@ https://user-images.githubusercontent.com/35864222/122655421-ca866800-d15a-11eb-
 
 In this project I used:
 
-- [x] Function Components
+- [x] Functional Components
 - [x] Hooks (useState(), useEffect())
 - [x] React Router
 - [x] CRUD using [JSON server](https://github.com/typicode/json-server) mocking a back-end API
